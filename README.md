@@ -1,2 +1,1 @@
-# gcp-aws-vpn-common
-GCP module common TF state
+# GCP VPN module - common TF state
